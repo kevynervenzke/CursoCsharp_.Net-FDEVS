@@ -1,4 +1,5 @@
-# Repositório Público do meu Curso de C# e .NET
+# Repositório Público de Kevyner Venzke Ramalho
+# Curso de C# e .NET da plataforma FDEVS
 
 Nesse repositório vou gravar meu progresso no Curso de C# .NET da FDEVS
 
@@ -30,7 +31,7 @@ Fiz commit de alguns projetos pessoais dos exercícios propostos um pouco mais e
 6. For
 
 ### Projetos
-- Projetos Utilizando o For como base
+- Projetos Utilizando o For como base.
 
 ### Observações Importantes
 Os exercícios apesar de serem sidos propostos pela plataforma FDEVS foi feita com minha autoria e com a lógica de programação atual minha, então se o código não estiver totalmente "clean" me ajudem a melhorar, Muito obrigado!
