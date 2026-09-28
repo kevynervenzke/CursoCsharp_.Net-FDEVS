@@ -81,8 +81,6 @@ namespace CalculoFatorial
                         Environment.Exit(0);
                     }
                 }
-
-
             }
         }
     }
