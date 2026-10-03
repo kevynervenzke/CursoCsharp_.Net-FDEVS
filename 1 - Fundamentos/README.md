@@ -16,7 +16,7 @@
 3. Utilizando Random
 4. Flags
 5. Do While
-6. For
+6. For/Foreach
 
 # Projetos
 - Projetos FDEVS.

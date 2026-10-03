@@ -9,7 +9,7 @@ Vou disponibilizar meu progresso em C# e .NET da FDEVS com aulas, exercícios e 
 
 ## Atualizações
 Nessa nova atualização adicionei a pasta "1 - Fundamentos", o objetivo é organizar meu processo em capítulos para cada conhecimento específico como Orientação a Objetos etc.
-Mas nada mudou fiz esse commit apenas para deixar tudo mais organizado.
+Adição de Novos exercícios e projetos
 
 ## Projetos
 - Projetos FDEVS.
